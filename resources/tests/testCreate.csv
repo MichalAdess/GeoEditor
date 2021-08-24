@@ -1,0 +1,4 @@
+id|shape   |xPx             |yPx          |count
+1 |POLYLINE|500             |0            |
+2 |POLYGONS|50;0;-500;-100;0|0;-20;0;400;0|5
+3 |CIRCLE  |200             |             |
